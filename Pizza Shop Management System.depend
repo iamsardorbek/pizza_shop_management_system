@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1618852697 source:d:\university\os\os\practice codes\pizza shop management system\main.cpp
+	<iostream>
+	<queue>
+	<ifstream>
+	<iostream>
+	<queue>
+	<fstream>
+	<string>
+
+1618852697 
+
+1618964789 source:/home/iamsardorbek/OS/task/Pizza Shop Management System/main.cpp
+	<iostream>
+	<queue>
+	<fstream>
+	<thread>
+	<mutex>
+	<unistd.h>
+
